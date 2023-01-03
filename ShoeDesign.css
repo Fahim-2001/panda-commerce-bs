@@ -1,0 +1,23 @@
+.head-text {
+    text-align: center;
+    margin: 30px;
+}
+
+
+img {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.price-and-order {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 200px;
+}
